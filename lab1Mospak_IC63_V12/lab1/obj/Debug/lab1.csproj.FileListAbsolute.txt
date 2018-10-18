@@ -1,0 +1,12 @@
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1\lab1\bin\Debug\lab1.exe.config
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1\lab1\bin\Debug\lab1.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1\lab1\bin\Debug\lab1.pdb
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1\lab1\obj\Debug\lab1.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1\lab1\obj\Debug\lab1.pdb
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1Mospak_IC63_V12\lab1\bin\Debug\lab1.exe.config
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1Mospak_IC63_V12\lab1\obj\Debug\lab1.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1Mospak_IC63_V12\lab1\obj\Debug\lab1.pdb
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1Mospak_IC63_V12\lab1\bin\Debug\lab1.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1Mospak_IC63_V12\lab1\bin\Debug\lab1.pdb
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab1Mospak_IC63_V12\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
