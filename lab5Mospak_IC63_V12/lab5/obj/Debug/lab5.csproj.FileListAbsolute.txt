@@ -1,0 +1,6 @@
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab5\lab5\bin\Debug\lab5.exe.config
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab5\lab5\bin\Debug\lab5.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab5\lab5\bin\Debug\lab5.pdb
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab5\lab5\obj\Debug\lab5.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab5\lab5\obj\Debug\lab5.pdb
