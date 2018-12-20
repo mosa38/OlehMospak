@@ -1,0 +1,6 @@
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab3\lab3\bin\Debug\lab3.exe.config
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab3\lab3\bin\Debug\lab3.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab3\lab3\bin\Debug\lab3.pdb
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab3\lab3\obj\Debug\lab3.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\lab3\lab3\obj\Debug\lab3.pdb
