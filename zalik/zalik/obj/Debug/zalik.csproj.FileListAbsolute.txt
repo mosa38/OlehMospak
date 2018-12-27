@@ -1,0 +1,6 @@
+D:\я\Сюда\УЧЕБА\3 курс\шарп\zalik\zalik\bin\Debug\zalik.exe.config
+D:\я\Сюда\УЧЕБА\3 курс\шарп\zalik\zalik\obj\Debug\zalik.csprojResolveAssemblyReference.cache
+D:\я\Сюда\УЧЕБА\3 курс\шарп\zalik\zalik\bin\Debug\zalik.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\zalik\zalik\bin\Debug\zalik.pdb
+D:\я\Сюда\УЧЕБА\3 курс\шарп\zalik\zalik\obj\Debug\zalik.exe
+D:\я\Сюда\УЧЕБА\3 курс\шарп\zalik\zalik\obj\Debug\zalik.pdb
